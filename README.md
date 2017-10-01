@@ -1,2 +1,2 @@
-# Practica6_fpd
-Práctica 6 de fundamentos de programación
+# Practica7_fpd
+Práctica 7 de fundamentos de programación
