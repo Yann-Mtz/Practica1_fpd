@@ -1,2 +1,2 @@
-# Practica9_fpd
-Práctica 9 de fundamentos de programación
+# Practica10_fpd
+Práctica 10 de fundamentos de programación
