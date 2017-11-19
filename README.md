@@ -1,2 +1,2 @@
-# Practica12_fpd
-Práctica 12 de fundamentos de programación
+# Practica13_fpd
+Práctica 13 de fundamentos de programación
